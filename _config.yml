@@ -18,7 +18,7 @@ email: ai4environment@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An effort to organise research into environmental processes with AI
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ai4environment.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 #github_username:
 
