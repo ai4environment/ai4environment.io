@@ -8,5 +8,5 @@ header_text: ai4environment
 
 ## Datasets
 
-- RGB composite L=200km tiles from GOES-16 (contact
-  [leifdenby@gmail.com][leifdenby@gmail.com])
+- RGB composite L=200km tiles from GOES-16 satellite (contact
+  [leifdenby@gmail.com](mailto:leifdenby@gmail.com))
