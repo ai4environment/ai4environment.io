@@ -12,4 +12,5 @@ layout: home
 This site is community effort to organise research using machine learning in
 Earth Science. If you have data you'd like to share, an event to advertise or
 would like to write a block poster [get in
-touch](mailto:ai4environment@gmail.com).
+touch](mailto:ai4environment@gmail.com) or [create a pull
+request](https://github.com/leifdenby/ai4environment.io).
